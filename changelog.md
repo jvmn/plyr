@@ -3,6 +3,8 @@
 ## v2.0.18
 - Fix for YouTube .getVideoData() issue (fixes #709)
 
+TESTING
+
 ## v2.0.17
 - Vimeo controls fix (fixes #697)
 - SVG4everybody compatibility fix
