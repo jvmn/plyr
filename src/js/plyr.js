@@ -1726,6 +1726,7 @@
             // https://developers.google.com/youtube/iframe_api_reference
             plyr.embed = new window.YT.Player(container.id, {
                 videoId: videoId,
+                host: 'https://www.youtube-nocookie.com',
                 playerVars: {
                     autoplay: config.autoplay ? 1 : 0,
                     controls: plyr.supported.full ? 0 : 1,
